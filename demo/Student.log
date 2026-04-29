@@ -1,0 +1,23 @@
+2026-04-28 16:40:49,773 - logger - INFO - This is a test log message!
+2026-04-28 16:43:39,477 - logger - INFO - This is a test log message!
+2026-04-28 16:43:39,596 - logger - INFO - Successfully executed a command.
+2026-04-28 16:43:39,601 - logger - INFO - Successfully executed a command.
+2026-04-28 16:43:39,609 - logger - INFO - Successfully executed a command.
+2026-04-28 16:43:39,610 - logger - INFO - All tables created and committed successfully.
+2026-04-28 17:38:27,132 - logger - INFO - This is a test log message!
+2026-04-28 17:39:51,104 - logger - INFO - This is a test log message!
+2026-04-28 17:39:51,107 - logger - ERROR - Database error: syntax error at or near "NULLABLE"
+LINE 6:             City VARCHAR(255) NULLABLE
+                                      ^
+
+2026-04-28 17:40:00,341 - logger - INFO - This is a test log message!
+2026-04-28 17:40:00,388 - logger - INFO - All tables created and committed successfully.
+2026-04-28 18:31:21,989 - logger - INFO - Successfully inserted student: Pratham
+2026-04-28 18:31:30,447 - logger - INFO - Retrieved student records.
+2026-04-28 18:31:52,905 - logger - ERROR - Failed to insert student: value too long for type character varying(10)
+
+2026-04-28 18:31:55,012 - logger - INFO - Retrieved student records.
+2026-04-28 18:32:21,405 - logger - INFO - Successfully inserted student: poojan
+2026-04-28 18:32:23,883 - logger - INFO - Retrieved student records.
+2026-04-28 18:32:35,654 - logger - INFO - Successfully inserted course: maths
+2026-04-28 18:32:48,437 - logger - INFO - Retrieved enrolled students for course ID: 1
